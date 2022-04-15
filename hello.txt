@@ -7,6 +7,6 @@ hello git
 hello git
 hello git
 hello git
-hello git master test
-123456789
+hello git
+123456789 master test
 xml test
